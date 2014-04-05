@@ -1,0 +1,38 @@
+<html>
+	
+	<head>
+	
+		<title>AutoTalk basic dashboard</title>
+	
+	    <script type="text/javascript" src="jquery-1.5.2.min.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				console.log("(document).ready");
+			   $('#btn1').click( generalBtnHandler );
+			});
+			
+			function generalBtnHandler(event){
+				console.log("generalBtnHandler()");
+				//console.log("    event: "+event);
+				console.log("I am: "+event.target.id);
+				$ref = $('#testDiv').append("<div>body</div>");
+				console.log("-->"+$ref.html());
+				$ref.append("knows");
+				console.log("-->"+$('#testDiv').html());
+				
+			}
+			
+			
+		</script>
+	</head>
+	
+	
+	
+	<body>
+		<input type="button" id="btn1" value="Button 1" />
+		<br/>
+		<div id="testDiv">no</div>
+		
+	</body>
+	
+</html>

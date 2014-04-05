@@ -1,0 +1,17 @@
+PROCESS:
+	DASHBOARD, get nodes:
+		- request node list from server
+		- display node list for user
+	DASHBOARD, edit device:
+		- when user clicks list, send <get/all> to selected node
+		- on <get.r>, display device data
+		- when user edits value, send <set> to update the appropriate var
+	DEVICE, joining:
+		- device tries to join network
+		- device gets id and becomes a node
+	DEVICE, message cycle:   
+		- get my queued messages
+		- messages come in, and are processed normally
+
+			  		
+The deal is this. In this network setup (with a device, server, and dashboard), the device is passive. It only needs to respond to requests it receives. The dashboard is active. It has awareness of which nodes are on the network, and it can target specific nodes for communication. So the dashboard is the node that initiates communication.

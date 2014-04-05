@@ -1,0 +1,9580 @@
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/all/s:1;r:2>
+    get
+AutoTalk_saveMessage()
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1;r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <join/type:dashboard>
+    join
+createNewNetId()
+    xmlObj: 
+    inputId: 
+    inputType: dashboard
+    looping through nodes
+    xmlNode[id]: 0
+    xmlNode[id]: 1
+      ** use this id
+      return: 1
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/all/s:1,r:2>
+    saveMessage
+AutoTalk_saveMessage()
+    msg:<get/all/s:1,r:2>
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <join/type:device,id:2>
+    join
+createNewNetId()
+    xmlObj: 
+    inputId: 2
+    inputType: device
+    looping through nodes
+    xmlNode[id]: 0
+    xmlNode[id]: 1
+    xmlNode[id]: 2
+      ** use this id
+      return: 2
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:2>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_2.txt
+    msgReturn: <get/all/s:1,r:2>
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get.r/sensor1:348,sensor2:406,led1:0,led2:0/s:2,r:1>
+    saveMessage
+AutoTalk_saveMessage()
+    msg:<get.r/sensor1:348,sensor2:406,led1:0,led2:0/s:2,r:1>
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: <get.r/sensor1:348,sensor2:406,led1:0,led2:0/s:2,r:1>
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:2>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_2.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <set/led1:20/s:1,r:2>
+    saveMessage
+AutoTalk_saveMessage()
+    msg:<set/led1:20/s:1,r:2>
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:2>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_2.txt
+    msgReturn: <set/led1:20/s:1,r:2>
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <set.r/true/s:2,r:1>
+    saveMessage
+AutoTalk_saveMessage()
+    msg:<set.r/true/s:2,r:1>
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: <set.r/true/s:2,r:1>
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <set/led1:0/s:1,r:2>
+    saveMessage
+AutoTalk_saveMessage()
+    msg:<set/led1:0/s:1,r:2>
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:2>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_2.txt
+    msgReturn: <set/led1:0/s:1,r:2>
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <set.r/true/s:2,r:1>
+    saveMessage
+AutoTalk_saveMessage()
+    msg:<set.r/true/s:2,r:1>
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: <set.r/true/s:2,r:1>
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:2>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_2.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <get/nodes/s:1,r:0>
+    get
+AutoTalk_returnDeviceList()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+
+
+==========================
+StartUp()
+loadDeviceSettings()
+    loading file
+    xmlObj: 
+    msg: <queue//s:1>
+    queue
+AutoTalk_loadMessages(): 
+    fileNameTemp: data/msgBuffer_1.txt
+    msgReturn: 
+
+
