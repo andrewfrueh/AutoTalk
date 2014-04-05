@@ -1,7 +1,12 @@
 AutoTalk
 ========
 
-Framework for automation
+A framework for communication in systems involved with automation 
 
 ---
-TODO, add readme content
+
+Documentation is currently:
+AutoTalk_documentation.odt
+
+"AutoTalk_device" contains files for Arduino
+"AutoTalk_web" contains files for the web server
